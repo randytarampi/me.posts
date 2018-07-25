@@ -4,7 +4,7 @@
     "name": "Randy Tarampi",
     "email": "rt@randytarampi.ca"
   },
-  "version": "0.0.0-1532479562",
+  "version": "0.0.0-1532480457",
   "private": true,
   "scripts": {
     "pretest": "npx gulp lint",
