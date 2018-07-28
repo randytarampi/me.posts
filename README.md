@@ -6,6 +6,8 @@
                      _|                             
 ```
 
+### *This package has been consolidated into the [`randytarampi/me`](https://github.com/randytarampi/me/tree/master/packages/posts) monorepo*
+
 A post aggregator/blog thingy. For some usernames at some popular services, pull their posts and display them nicely.
 
 Currently supports:
